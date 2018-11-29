@@ -1,2 +1,6 @@
 git is  a version control platform
+<<<<<<< HEAD
 master branch is faster
+=======
+master branch is faster
+>>>>>>> dev
